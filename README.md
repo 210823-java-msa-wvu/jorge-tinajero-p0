@@ -5,5 +5,3 @@ As an application user, Create a function that allows civilians or heroes to log
 As an application user, create a function that allows a new user to sign up a civilian or hero that will have all available functions.
 
 As an application user, create 3 functions for hero that will allow them to see all crimes, and allow to mark done or on route, also to accept or reject applications.
-
-As an application user, create a function that allows to enroll in classes new classes that that have not been added and classes already added.
